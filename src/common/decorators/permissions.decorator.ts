@@ -1,0 +1,1 @@
+export const Permissions = (...perms: string[]) => perms;

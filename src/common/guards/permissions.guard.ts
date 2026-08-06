@@ -1,0 +1,2 @@
+// futuro
+export class PermissionsGuard {}
